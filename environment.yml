@@ -1,0 +1,11 @@
+name: diabetes_eda
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - seaborn
+  - matplotlib
+  - pandas
+  - scikit-learn
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/diabetes_eda
